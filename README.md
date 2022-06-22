@@ -15,11 +15,11 @@ iPhone (1 tháng) 24/06/2022 - 24/07/2022
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vRm5EYUpHc0J6S05k#NGUYENHUY
 
 ----------------------------------------
-Android (3 tháng) 20/06/2022 - 20/09/2022
+Android (12 tháng) 20/06/2022 - 20/06/2023
 aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vNUFlSlNWVkdHUWRq
 
 ----------------------------------------
-iPhone (3 tháng) 20/06/2022 - 20/09/2022
+iPhone (12 tháng) 20/06/2022 - 20/06/2023
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vb2NzbWRpSGNjQVZX#NGUYENHUY
 
 ----------------------------------------
